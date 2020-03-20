@@ -1,0 +1,10 @@
+/Users/codenation/Desktop/Codenation work/Week 10/csharp-classes/bin/Debug/netcoreapp3.1/csharp-classes.deps.json
+/Users/codenation/Desktop/Codenation work/Week 10/csharp-classes/bin/Debug/netcoreapp3.1/csharp-classes.runtimeconfig.json
+/Users/codenation/Desktop/Codenation work/Week 10/csharp-classes/bin/Debug/netcoreapp3.1/csharp-classes.runtimeconfig.dev.json
+/Users/codenation/Desktop/Codenation work/Week 10/csharp-classes/bin/Debug/netcoreapp3.1/csharp-classes.dll
+/Users/codenation/Desktop/Codenation work/Week 10/csharp-classes/bin/Debug/netcoreapp3.1/csharp-classes.pdb
+/Users/codenation/Desktop/Codenation work/Week 10/csharp-classes/obj/Debug/netcoreapp3.1/csharp-classes.csprojAssemblyReference.cache
+/Users/codenation/Desktop/Codenation work/Week 10/csharp-classes/obj/Debug/netcoreapp3.1/csharp-classes.AssemblyInfoInputs.cache
+/Users/codenation/Desktop/Codenation work/Week 10/csharp-classes/obj/Debug/netcoreapp3.1/csharp-classes.AssemblyInfo.cs
+/Users/codenation/Desktop/Codenation work/Week 10/csharp-classes/obj/Debug/netcoreapp3.1/csharp-classes.dll
+/Users/codenation/Desktop/Codenation work/Week 10/csharp-classes/obj/Debug/netcoreapp3.1/csharp-classes.pdb
